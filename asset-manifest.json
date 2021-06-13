@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Breaking-Bad-Quotes/static/css/main.052db55d.chunk.css",
+    "main.js": "/Breaking-Bad-Quotes/static/js/main.e021a0dc.chunk.js",
+    "main.js.map": "/Breaking-Bad-Quotes/static/js/main.e021a0dc.chunk.js.map",
+    "runtime-main.js": "/Breaking-Bad-Quotes/static/js/runtime-main.7a247b88.js",
+    "runtime-main.js.map": "/Breaking-Bad-Quotes/static/js/runtime-main.7a247b88.js.map",
+    "static/css/2.09f3f741.chunk.css": "/Breaking-Bad-Quotes/static/css/2.09f3f741.chunk.css",
+    "static/js/2.810a1f77.chunk.js": "/Breaking-Bad-Quotes/static/js/2.810a1f77.chunk.js",
+    "static/js/2.810a1f77.chunk.js.map": "/Breaking-Bad-Quotes/static/js/2.810a1f77.chunk.js.map",
+    "static/js/3.c2903428.chunk.js": "/Breaking-Bad-Quotes/static/js/3.c2903428.chunk.js",
+    "static/js/3.c2903428.chunk.js.map": "/Breaking-Bad-Quotes/static/js/3.c2903428.chunk.js.map",
+    "index.html": "/Breaking-Bad-Quotes/index.html",
+    "static/css/2.09f3f741.chunk.css.map": "/Breaking-Bad-Quotes/static/css/2.09f3f741.chunk.css.map",
+    "static/css/main.052db55d.chunk.css.map": "/Breaking-Bad-Quotes/static/css/main.052db55d.chunk.css.map",
+    "static/js/2.810a1f77.chunk.js.LICENSE.txt": "/Breaking-Bad-Quotes/static/js/2.810a1f77.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Breaking-Bad-Quotes/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a247b88.js",
+    "static/css/2.09f3f741.chunk.css",
+    "static/js/2.810a1f77.chunk.js",
+    "static/css/main.052db55d.chunk.css",
+    "static/js/main.e021a0dc.chunk.js"
+  ]
+}
